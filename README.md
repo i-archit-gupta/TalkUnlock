@@ -43,6 +43,10 @@ python main.py
 ```
 - Step 3: Interact with the Application. Use the GUI to lock and unlock files with voice commands.
 
+## 📸 Flow Diagram
+
+![Flow Diagram](/diagrams/Sequence_Diagram_TalkUnlock.png)
+
 ## 💡 Acknowledgments
 - SpeechRecognition Library: For voice input processing.
 - Cryptography Library: For file encryption and decryption.
