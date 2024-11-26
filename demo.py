@@ -13,7 +13,6 @@ def get_voice_command():
     recognizer = sr.Recognizer()
     with sr.Microphone() as source:
         try:
-            # listen voice for 10 seconds
             messagebox.showinfo("Voice Command", "Listening for command...")
             audio = recognizer.listen(source)
             messagebox.showinfo("Voice Command", "Processing command...")
@@ -82,7 +81,6 @@ def unlock_file():
     except Exception as e:
         messagebox.showerror("Error", f"Error unlocking file: {e}")
 
-# Build GUI with Tkinter
 def main():
     global stored_command
     stored_command = None  # To store the voice command used for locking
