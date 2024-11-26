@@ -43,6 +43,31 @@ python main.py
 ```
 - Step 3: Interact with the Application. Use the GUI to lock and unlock files with voice commands.
 
+## 🖥️ Screenshots
+- ## Locking a File:
+  
+  ![Main-Menu](/screenshots/main-menu.png)
+
+  ![Choose-Lock-File](/screenshots/lock-file-choose.png)
+
+  ![Listening-Command](/screenshots/listen-command.png)
+
+  ![Processing-Command](/screenshots/process-command.png)
+
+  ![File-Locked-Successfully](/screenshots/file-locked.png)
+
+- ## Unlocking a File:
+  
+  ![Main-Menu](/screenshots/main-menu.png)
+
+  ![Choose-Lock-File](/screenshots/unlock-file-choose.png)
+
+  ![Listening-Command](/screenshots/listen-command.png)
+
+  ![Processing-Command](/screenshots/process-command.png)
+
+  ![File-Locked-Successfully](/screenshots/file-unlocked.png)
+
 ## 📸 Flow Diagram
 
 ![Flow Diagram](/files/Sequence_Diagram_TalkUnlock.png)
