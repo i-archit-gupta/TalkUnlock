@@ -45,7 +45,7 @@ python main.py
 
 ## 📸 Flow Diagram
 
-![Flow Diagram](/diagrams/Sequence_Diagram_TalkUnlock.png)
+![Flow Diagram](/files/Sequence_Diagram_TalkUnlock.png)
 
 ## 💡 Acknowledgments
 - SpeechRecognition Library: For voice input processing.
